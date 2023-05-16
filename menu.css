@@ -83,3 +83,41 @@ hr {
 a {
   color: black;
 }
+@media only screen and (max-width:800px){
+  .menu {
+  display: inline;
+  }
+  .menuu {
+    display: inline;
+    }
+  .menu1 {
+    width: 70%;
+    background-color: #4593ce;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    margin-top: 20px;
+  }
+  .menu2 {
+    width: 70%;
+    background-color: #4593ce;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+   margin-top: 20px;
+  }
+  .menu3 {
+    width: 70%;
+    background-color: #4593ce;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    margin-top: 20px;
+  }
+}
